@@ -1,4 +1,5 @@
-#Présentation de Livi
+Présentation de Livi
+--------------------
 
 Livi rend la santé plus accessible en permettant aux patients de consulter un médecin via leur mobile en quelques minutes, 
 où qu’ils soient et quand ils le veulent. L’objectif de Livi est d’offrir au plus grand nombre un accès à des soins 
@@ -12,7 +13,9 @@ s’inscrit comme l’une des start-ups les plus prometteuses de la Health-Tech 
 engagées dans l’avenir de la santé par l’innovation.
 Le tout, au service du patient.
 
-Les postes sont accessibles en 100% remote partout en Europe.
+Télétravail
+-----------
+Les postes sont accessibles en 100% remote partout en Europe. Vous avez la possibilité de vous rendre fréquement dans les bureaux parisien et à Stockholm (Suède)
 
 Lien sur l'entreprise : 
 https://www.livi.fr/
