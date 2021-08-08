@@ -15,7 +15,7 @@ Le tout, au service du patient.
 
 Télétravail
 -----------
-Les postes sont accessibles en 100% remote partout en Europe. Vous avez la possibilité de vous rendre fréquement dans les bureaux parisien et à Stockholm (Suède)
+Les postes sont accessibles en 100% remote partout en Europe. Vous avez la possibilité de vous rendre fégulièrement dans les bureaux parisiens et à Stockholm (Suède)
 
 Lien sur l'entreprise : 
 https://www.livi.fr/
