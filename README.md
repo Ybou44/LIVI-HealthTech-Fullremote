@@ -23,4 +23,4 @@ https://www.livi.co.uk/
 
 https://www.welcometothejungle.com/fr/companies/livi
 
-Contactez-moi pour en savoir plus ou postuler : yann.boursier@solidskills.fr
+Contactez-moi pour en savoir plus ou pour postuler : yann.boursier@solidskills.fr
