@@ -18,7 +18,9 @@ Ce que vous apprécierez
 -----------------------
 Un environnement où vous travaillez en petites équipes agiles de 5 ou 6 personnes et où ovus êtes très autonome.
 Un context où les choix techniques et méthodologiques sont faits pour être pertinents et efficaces afin de servir au mieux l'experience utilisateur et les aspects fonctionnels.
+
 Le quotidien très international des projets.
+
 La grande autonomie et la possibilité d'avoir un VRAI IMPACT sur l'évolution du produit dans sa globalité.
 Un projet d'utilité publique qui a du sens et améliore la santé et le confort des Français grace au concept de "continuous care"
 
