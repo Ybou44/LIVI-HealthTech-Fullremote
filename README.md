@@ -37,6 +37,8 @@ Lien sur l'entreprise :
 https://www.livi.fr/
 https://www.livi.co.uk/
 
-https://www.welcometothejungle.com/fr/companies/livi
+La présentation sur Welcome to the Jungle https://www.welcometothejungle.com/fr/companies/livi
+
+Youtube Livi https://www.youtube.com/channel/UCcbSyAJAOI96vgBuSg-qJ8g/videos 
 
 Contactez-moi pour en savoir plus ou pour postuler : yann.boursier@solidskills.fr
