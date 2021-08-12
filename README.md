@@ -27,7 +27,7 @@ Ce que vous apprécierez
 
 - La grande autonomie et la possibilité d'avoir un VRAI IMPACT sur l'évolution du produit dans sa globalité.
 
-- Un projet d'utilité publique qui a du sens et améliore la santé et le confort des Français grace au concept de "continuous care"
+- Un projet d'utilité publique qui a du sens et améliore la santé et le confort des français dans une démarche de "continuous care"
 
 Télétravail
 -----------
