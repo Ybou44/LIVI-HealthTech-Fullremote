@@ -16,7 +16,8 @@ Le tout, au service du patient.
 
 Ce que vous apprécierez
 -----------------------
-Un environnement où vous travaillez en petites équipes agiles de 5 ou 6 personnes et où ovus êtes très autonome.
+Un environnement où vous travaillez en petites équipes agiles de 5 ou 6 personnes max (1 Product design, 1 Product manager, 3-4 devs) et où vous êtes très autonome.
+
 
 Un context où les choix techniques et méthodologiques sont faits pour être pertinents et efficaces afin de servir au mieux l'experience utilisateur et les aspects fonctionnels.
 
