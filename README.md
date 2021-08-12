@@ -1,9 +1,9 @@
 Présentation de Livi
 --------------------
 
-Livi est un groupe constitué de centres de santé qui rend la santé plus accessible en permettant aux patients de
+Livi est un centres de santé qui rend les soins plus accessibles en permettant aux patients de
 consulter un médecin via leur mobile en quelques minutes, où qu’ils soient et quand ils le veulent.
-Spécialisé dans la téléconsultation médicale, Livi propose une prise en charge rapide pour tous grâce à la téléconsultation de ses médecins employés et formés par la direction médicale. Livi apporte un chemin médical complet et physique si besoin avec son environnement de partenaires (centre de santé, spécialistes, laboratoires, pharmacies, mutuelles santé). 
+Livi propose une prise en charge rapide pour tous grâce à la téléconsultation de ses médecins. Ceux-ci sont employés et formés par la direction médicale. Livi apporte un chemin médical complet et physique si besoin avec son environnement de partenaires (centre de santé, spécialistes, laboratoires, pharmacies, mutuelles santé). 
 
 L'objectif de Livi est de construire le système de santé de demain pour pallier les déserts médicaux, l’engorgement des urgences et ouvrir l'accès au soin à tous. 
 
