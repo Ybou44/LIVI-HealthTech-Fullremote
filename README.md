@@ -19,10 +19,11 @@ Ce que vous apprécierez
 
 - Un environnement où vous travaillez en petites équipes agiles de 5 ou 6 personnes max (1 Product design, 1 Product manager, 3-4 devs) et où vous êtes très autonome.
 
-
 - Un context où les choix techniques et méthodologiques sont faits pour être pertinents et efficaces afin de servir au mieux l'experience utilisateur et les aspects fonctionnels.
 
 - Le quotidien très international des projets.
+
+- De nombreuses occasions pour développer vos compétences et échanger sur les sujets techniques ou méthodologies avec vos collègues.
 
 - La grande autonomie et la possibilité d'avoir un VRAI IMPACT sur l'évolution du produit dans sa globalité.
 
