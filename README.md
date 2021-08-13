@@ -28,6 +28,28 @@ Ce que vous apprécierez
 
 - Un projet d'utilité publique qui a du sens et améliore la santé et le confort des français dans une démarche de "continuous care"
 
+
+Stack Technique
+---------------
+
+     +---------------|--------------|------------------+--------------|--------------+
+     |               |    FRONT     |  BACK            | DB           |     Infra    |
+     +---------------|--------------|------------------+--------------|--------------|
+     | Apps          |   Swift      |                  |              |              |
+     |   (Patient)   |   Kotlin     |                  |              |              |
+     +---------------+---------------     Kotlin       |              |              |
+     | Careportal    |   React JS   |   Java 8, 11     |   MySQL      |              |
+     |   (clinician) |   Flow       |                  |   Redshift   |              |
+     +---------------+--------------|                  |              |     AWS      |
+     | Backoffice    |   React JS   |                  |              |              |
+     +---------------+---------------------------------|              |              |
+     | Scripting     |              |    Python        |              |              |
+     |               |              |    Bash/Shell    |              |              |
+     +---------------+------------------------------------------------|              |
+     | Web           |   Javascript |      N/A         |     N/A      |              |
+     +---------------+---------------------------------------------------------------+ 
+
+
 Télétravail
 -----------
 Les postes sont accessibles en 100% remote partout en Europe. Vous avez la possibilité de vous rendre régulièrement dans les bureaux parisiens et à Stockholm (Suède)
