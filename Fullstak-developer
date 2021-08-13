@@ -17,6 +17,27 @@ maintaining quality standards.
 - Work in a lightweight scrum process where Livi constantly streamline our tools and workflows making sure that each 
 workday is productive and stimulating.
 
+
+Stack Technique
+---------------
+
+     +---------------|--------------|------------------+--------------|--------------+
+     |               |    FRONT     |  BACK            | DB           |     Infra    |
+     +---------------|--------------|------------------+--------------|--------------|
+     | Apps          |   Swift      |                  |              |              |
+     |   (Patient)   |   Kotlin     |                  |              |              |
+     +---------------+---------------     Kotlin       |              |              |
+     | Careportal    |   React JS   |   Java 8, 11     |   MySQL      |              |
+     |   (clinician) |   Flow       |                  |   Redshift   |              |
+     +---------------+--------------|                  |              |     AWS      |
+     | Backoffice    |   React JS   |                  |              |              |
+     +---------------+---------------------------------|              |              |
+     | Scripting     |              |    Python        |              |              |
+     |               |              |    Bash/Shell    |              |              |
+     +---------------+------------------------------------------------|              |
+     | Web           |   Javascript |      N/A         |     N/A      |              |
+     +---------------+---------------------------------------------------------------+ 
+
 Ce que vous apporter à l'équipe :
 ---------------------------------
 
