@@ -58,7 +58,7 @@ Lien sur l'entreprise :
 https://www.livi.fr/
 https://www.livi.co.uk/
 
-La présentation sur Welcome to the Jungle https://www.welcometothejungle.com/fr/companies/livi
+(VIDEO INTERESSANTES) La présentation sur Welcome to the Jungle https://www.welcometothejungle.com/fr/companies/livi
 
 Youtube Livi https://www.youtube.com/channel/UCcbSyAJAOI96vgBuSg-qJ8g/videos 
 
